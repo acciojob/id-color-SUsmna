@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 #yellow{
 	border-width: 1px;
+	
 	border-color:green;
 	background:yellow;
 }
@@ -13,8 +14,9 @@
 
 #green{
 	border-width: 1px;
-	border-color:yellow;
-	background:green;
+	border-color:yellow ;
+	
+	background: green;
 }
 
 
