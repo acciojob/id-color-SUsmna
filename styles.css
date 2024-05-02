@@ -2,16 +2,19 @@
 #yellow{
 	border-width: 1px;
 	border-color:green;
+	background:yellow;
 }
 
 #red{
 	border-width: 1px;
 	border-color:black;
+	background:red;
 }
 
 #green{
 	border-width: 1px;
 	border-color:yellow;
+	background:green;
 }
 
 
